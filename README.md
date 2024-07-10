@@ -1,10 +1,9 @@
-<h2> HI there, fellow Coders! </h2>
+<h2> Hi there, fellow Coders! </h2>
 <h1 align="center">I am Imran Imtiaz</h1>
 <h3 align="center">
 Database Adminitrator</h3>
  
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Ruby, React, Rails etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, sql, HTML, CSS etc.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Chess.
 
