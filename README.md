@@ -28,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz48&show_icons=true&locale=en" alt="imran-imtiaz48" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-imtiaz48&" alt="imran-imtiaz48" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/imran-imtiaz48/imran-imtiaz48/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/imran-imtiaz48/imran-imtiaz48/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/imran-imtiaz48/imran-imtiaz48/blob/output/github-contribution-grid-snake.svg">
+</picture>
