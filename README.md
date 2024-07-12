@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Databases,SQL,MySQL, HTML, CSS, Bootstrap, C# , .net, JavaScript**
 
-- 📫 How to reach me **Emraan.imtiaz48@gmail.com**
+- 📫 How to reach me **emraan.imtiaz48@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hKotWtJdeW1OeNG308vhL9tMAD4WNlue/view?usp=drivesdk](https://drive.google.com/file/d/1hKotWtJdeW1OeNG308vhL9tMAD4WNlue/view?usp=drivesdk)
 
