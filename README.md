@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Databases,SQL,MySQL, HTML, CSS, Bootstrap, C# , .net, JavaScript**
+- 💬 Ask me about **Databases,SQL,MySQL,HTML, CSS, Bootstrap, C# , .net,JavaScript**
 
 - 📫 How to reach me **emraan.imtiaz48@gmail.com**
 
