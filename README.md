@@ -13,12 +13,6 @@
     </a>
   </p>
 
-  <p align="left">
-    <a href="https://twitter.com/" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-    </a>
-  </p>
-
   <ul>
     <li>💬 Ask me about <strong>Databases, SQL, MySQL, HTML, CSS, Bootstrap, C#, .NET, JavaScript</strong></li>
     <li>📫 How to reach me: <a href="mailto:emraan.imtiaz48@gmail.com">emraan.imtiaz48@gmail.com</a></li>
