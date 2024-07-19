@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Imtiaz</h1>
 <h3 align="center">
-  I have six years of robust experience as a skilled SQL Database Administrator. My primary role involves managing, enhancing, and securing complex database systems. I excel in ensuring data accuracy, optimizing performance, and maintaining seamless operations to drive business success. In addition to my expertise in SQL databases, I am proficient in HTML, CSS, JavaScript, and C#. These skills enable me to proficiently handle both the technical backend and frontend aspects of website development.
+  I have six years of robust experience as a skilled SQL Database Administrator. My primary role involves managing, enhancing, and securing complex database systems. I excel in ensuring data accuracy, optimizing performance, and maintaining seamless operations to drive business success. In addition to my expertise in SQL databases, I am proficient in HTML, CSS, JavaScript, and C#. These skills enable me to proficiently handle both the technical backend and frontend aspect of website development.
 </h3>
 
 <p align="left">
