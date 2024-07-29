@@ -2,7 +2,7 @@
 <h3 align="center">
  With over 6 years of experience as a skilled SQL Database Administrator, I excel in managing, optimizing, and securing complex database systems. My primary focus is on ensuring data integrity, enhancing performance, and maintaining smooth operations that align with your business objectives.
 
-In addition to my SQL expertise, I am proficient in HTML, CSS, JavaScript, and C#. This versatility allows me to handle both the technical backend and the user facing frontend of website development.
+In addition to my SQL expertise, I am proficient in HTML, CSS, JavaScript, and C#. This versatility allows me to handle both the technical backend and the user-facing frontend of website development.
 </h3>
 
 <p align="left">
