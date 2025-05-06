@@ -1,4 +1,3 @@
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Imranimtiaz" data-color="#BD5FFF" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <h1 align="center">Hi 👋, I am IMRAN IMTIAZ</h1>
 <h3 align="center">I'm a skilled SQL Database Administrator with 6 years of solid experience. My main job is to handle, improve, and protect complicated database systems. I'm really good at making sure that data stays accurate, boosting performance, and making sure everything runs smoothly to help the business succeed. Besides knowing a lot about SQL databases, I'm also pretty handy with HTML, CSS, JavaScript, and C#. These extra skills help me tackle both the technical stuff behind the scenes and the visible parts of website development.</h3>
 
