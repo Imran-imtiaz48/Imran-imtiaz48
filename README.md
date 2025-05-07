@@ -1,8 +1,10 @@
+<!--
 <p align="center">
   <a href="https://www.buymeacoffee.com/Imranimtiaz" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
   </a>
 </p>
+-->
 
 <h1 align="center">Hi 👋, I am IMRAN IMTIAZ</h1>
 <h3 align="center">I'm a skilled SQL Database Administrator with 6 years of solid experience. My main job is to handle, improve, and protect complicated database systems. I'm really good at making sure that data stays accurate, boosting performance, and making sure everything runs smoothly to help the business succeed. Besides knowing a lot about SQL databases, I'm also pretty handy with HTML, CSS, JavaScript, and C#. These extra skills help me tackle both the technical stuff behind the scenes and the visible parts of website development.</h3>
