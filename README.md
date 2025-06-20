@@ -59,13 +59,14 @@
 
 ---
 
-### 🟩 GitHub Contribution Graph (Heatmap Style)
+### 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=imran-imtiaz48&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/imran-imtiaz48">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-imtiaz48&theme=tokyo-night&area=true&hide_border=true" alt="Imran's GitHub activity graph" />
+  </a>
 </p>
 
----
 
 ### 🏆 GitHub Achievements
 
