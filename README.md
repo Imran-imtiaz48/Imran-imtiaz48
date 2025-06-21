@@ -22,7 +22,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/emraan%20imtiaz)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_imran.webster)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Emraan.imtiaz48@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1hKotWtJdeW1OeNG308vhL9tMAD4WNlue/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1q1qwhm-pkGGiAo2GKGA5YFP3QvD1Grvt/view?usp=sharing)
 
 ---
 
