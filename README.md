@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🛠️ 6+ years of experience as an **SQL Database Administrator**
+- 🛠️ 6+ years of experience as an ** Database Administrator**
 - 💡 Expertise in performance tuning, security, and data integrity
 - 🌐 Also skilled in **HTML, CSS, JavaScript, Bootstrap, C#, and .NET**
 - 🧰 Building solutions that balance performance, reliability, and simplicity
