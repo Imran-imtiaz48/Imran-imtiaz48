@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm Imran Imtiaz</h1>
-<h3 align="center">Database Developer | SQL DBA | .NET Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Imran+Imtiaz;Database+Developer+%7C+SQL+DBA+%7C+.NET+Enthusiast;&center=true&width=500&height=45&color=00FFFF&vCenter=true&size=22" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imran-imtiaz48&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,58 +8,79 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎯 6+ years of hands-on experience as a **Database Administrator**
-- 🧠 Expert in **SQL Server, MySQL, PostgreSQL, and Oracle**
-- 🚀 Specialize in performance tuning, data integrity, and system security
-- 🌐 Skilled in full-stack development: **HTML, CSS, JS, Bootstrap, C#, .NET**
-- ⚙️ Love creating clean, optimized queries and scalable data systems
-- 📘 Currently learning: **Advanced PostgreSQL + Real-time data analytics**
+🔧 Passionate **Database Developer** with over **6 years** of experience  
+🛡️ Expert in **SQL Server, PostgreSQL, MySQL, Oracle**  
+🚀 Strong in performance tuning, data integrity, and database security  
+💻 Skilled in **C#, .NET, HTML, CSS, JavaScript, Bootstrap**  
+📚 Continuously exploring **PostgreSQL JSONB**, **RLS**, and **data audit triggers**
 
 ---
 
-### 🔧 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt=".NET"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" width="40" alt="Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
+## 🔥 Featured Projects
 
-- 🧮 **SQL Scripts & Optimization Toolkit**  
-  🔗 [View on GitHub](https://github.com/Imran-imtiaz48/sql-performance-scripts)  
-  Advanced SQL scripts and functions for health checks, auditing, and performance tuning.
+<table>
+<tr>
+<td width="50%">
+  
+### 🧮 SQL Optimization Toolkit  
+Advanced diagnostic & performance-tuning SQL scripts  
+🔗 [View on GitHub](https://github.com/Imran-imtiaz48/sql-performance-scripts)
 
-- 🌍 **Charity DB Management System** *(PostgreSQL)*  
-  🔗 [Coming Soon]  
-  Tracks orphans, wells, zakat campaigns, and projects using JSONB, triggers, and RLS.
+</td>
+<td width="50%">
 
-- 📊 **Custom Power BI Dashboards**  
-  🔗 [View Repo](https://github.com/Imran-imtiaz48/powerbi-dashboard-charity)  
-  Fully interactive dashboards built from scratch using Excel and Power BI.
+### 🌍 Charity DB Management  
+PostgreSQL project with triggers, JSONB, views & security  
+🔗 [Coming Soon]
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Power BI Dashboard  
+Clean UI for donor impact tracking  
+🔗 [View Repo](https://github.com/Imran-imtiaz48/powerbi-dashboard-charity)
+
+</td>
+<td width="50%">
+
+### 🧰 SQL + Mongo + Web Integration  
+Custom backend APIs + web forms + reports  
+🔗 [In Progress]
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz48&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz48&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-imtiaz48&theme=tokyonight&hide_border=true" />
   <br />
@@ -67,17 +89,15 @@
 
 ---
 
-### 📊 GitHub Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/imran-imtiaz48">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-imtiaz48&theme=tokyo-night&area=true&hide_border=true" alt="Imran's GitHub activity graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-imtiaz48&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imran-imtiaz48&theme=onedark&row=1&column=6" />
@@ -85,20 +105,21 @@
 
 ---
 
-### 📬 Let's Connect
+## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imranimtiaz1)  
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_imran.webster)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/emraan%20imtiaz)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Emraan.imtiaz48@gmail.com)  
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1jzvQp5XrNm0bmF2tZk8FFJ9Vjlih9vEf/view?usp=sharing)
+<p align="center">
+  <a href="https://linkedin.com/in/imranimtiaz1"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_imran.webster"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:Emraan.imtiaz48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1jzvQp5XrNm0bmF2tZk8FFJ9Vjlih9vEf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=googledrive" /></a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> I don’t just write queries, I make them fly.  
-> I love transforming raw data into clear insights and efficient systems.
+> I can make your database queries run faster than your coffee machine! ☕💻  
+> Data performance and optimization isn’t just a task, it’s an obsession.
 
 ---
 
