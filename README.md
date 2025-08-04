@@ -39,21 +39,6 @@
 
 ---
 
-### 🚀 Highlighted Projects
-
-- 🧮 **SQL Scripts & Optimization Toolkit**  
-  🔗 [View on GitHub](https://github.com/Imran-imtiaz48/sql-performance-scripts)  
-  Advanced SQL scripts and functions for health checks, auditing, and performance tuning.
-
-- 🌍 **Charity DB Management System** *(PostgreSQL)*  
-  🔗 [Coming Soon]  
-  Tracks orphans, wells, zakat campaigns, and projects using JSONB, triggers, and RLS.
-
-- 📊 **Custom Power BI Dashboards**  
-  🔗 [View Repo](https://github.com/Imran-imtiaz48/powerbi-dashboard-charity)  
-  Fully interactive dashboards built from scratch using Excel and Power BI.
-
----
 
 ### 📈 GitHub Stats
 
