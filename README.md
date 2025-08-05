@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎯 6+ years of hands-on experience as a **Database Administrator**
-- 🧠 Expert in **SQL Server, MySQL, PostgreSQL, and Oracle**
+- 🧠 Expert in **SQL Server, MySQL, PostgreSQL**
 - 🚀 Specialize in performance tuning, data integrity, and system security
 - 🌐 Skilled in full-stack development: **HTML, CSS, JS, Bootstrap, C#, .NET**
 - ⚙️ Love creating clean, optimized queries and scalable data systems
