@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Imran Imtiaz</h1>
-<h3 align="center">Database Developer | Database Administrator </h3>
+<h3 align="center">Database Developer | Database Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imran-imtiaz48&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
