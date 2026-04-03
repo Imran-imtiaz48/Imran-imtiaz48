@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Imran Imtiaz</h1>
-<h3 align="center">Database Developer | Database Architect | Data Engineer</h3>
+<h3 align="center">Senior Data Engineer | Database Architect | Cloud Data Platforms</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imran-imtiaz48&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,47 +9,71 @@
 
 ### About Me
 
-I am a database focused engineer with over 6 years of professional experience designing, building, and maintaining data systems for production environments.
+I am a **Senior Data Engineer with 7+ years of experience** designing and operating enterprise database and analytics platforms. My background spans **data engineering, database architecture, and cloud data warehousing**, with a strong focus on building scalable data pipelines and high-availability database systems.
 
-My work spans database development, administration, performance tuning, and analytics support. I focus on stability, correctness, and long term scalability.
+I work across the full data lifecycle — **ingestion, transformation, storage, and analytics** — enabling organizations to turn operational data into reliable insights.
 
-**Core experience**
-- 6+ years as Database Developer and DBA
-- Strong hands on SQL across SQL Server, PostgreSQL, MySQL, Oracle
-- Query optimization, indexing strategies, execution plan analysis
-- Stored procedures, functions, triggers, and data modeling
-- Backup, recovery, and high availability concepts
-- Data validation, integrity, and security controls
+**Core Experience**
 
-**Data & Analytics**
-- ETL pipelines and data transformations
-- Reporting support for BI tools (Power BI focused)
-- Strong experience with analytical SQL, CTEs, window functions
-- Working knowledge of cloud data platforms (Azure)
+- 7+ years working with **PostgreSQL and SQL Server** in production environments  
+- Database architecture, performance tuning, and query optimization  
+- High availability design, replication, and disaster recovery strategies  
+- Cross-platform database migrations (SQL Server / MySQL → PostgreSQL)  
+- Backup, recovery, monitoring, and database security implementation  
+- Schema design, indexing strategies, and large scale data modeling  
 
-**Application Stack**
-- Backend integration using C# and .NET
-- REST API testing using Postman
-- Front end basics for internal tools (HTML, CSS, JavaScript, Bootstrap)
+**Data Engineering & Analytics**
 
-Currently improving skills in **advanced PostgreSQL internals and real time analytics patterns**.
+- Building **ETL / ELT pipelines** using Python, Databricks, and Azure Data Factory  
+- Developing analytics pipelines with **Delta Lake and Apache Spark**  
+- Working with **Microsoft Fabric Lakehouse architecture**  
+- Data ingestion, transformation, and orchestration pipelines  
+- Integrating data into **Google BigQuery and Power BI for reporting**  
+- Data validation, cleansing, and transformation using **Python (Pandas / NumPy)**  
+
+**Previous Development Experience**
+
+Before moving fully into data engineering, I worked as a **Full Stack Developer**, building enterprise web applications using **.NET MVC, JavaScript, HTML, and CSS**, which gives me strong understanding of how applications interact with databases.
+
+Currently expanding expertise in **modern data platforms, distributed analytics systems, and scalable data architectures**.
 
 ---
 
 ### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" />
+<img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="45" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" width="45" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="45" />
+<img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" width="45" />
+<img src="https://cdn.worldvectorlogo.com/logos/git-scm.svg" width="45" />
+
 </p>
+
+---
+
+### Core Technologies
+
+**Databases**
+
+PostgreSQL • SQL Server • MongoDB • Snowflake • Amazon Redshift  
+
+**Data Engineering**
+
+Python • Apache Spark • Databricks • Azure Data Factory • Microsoft Fabric • Apache Airflow  
+
+**Analytics & BI**
+
+Power BI • Google BigQuery • Data Modeling • Data Warehousing  
+
+**Development**
+
+.NET MVC • JavaScript • HTML • CSS  
 
 ---
 
@@ -75,24 +99,21 @@ Currently improving skills in **advanced PostgreSQL internals and real time anal
 
 ---
 
-### GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imran-imtiaz48&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 ### Connect With Me
 
-[LinkedIn](https://linkedin.com/in/imranimtiaz1)  
-[Instagram](https://instagram.com/_imran.webster)  
-[Email](mailto:Emraan.imtiaz48@gmail.com)  
-[Resume](https://drive.google.com/file/d/1jzvQp5XrNm0bmF2tZk8FFJ9Vjlih9vEf/view)
+LinkedIn  
+https://linkedin.com/in/imranimtiaz1  
+
+Email  
+mailto:emraan.imtiaz48@gmail.com  
+
+GitHub  
+https://github.com/imran-imtiaz48  
 
 ---
 
-### Note
+### Philosophy
 
-I focus on writing SQL that is readable, predictable, and fast.  
-Databases should not surprise you in production.
+Good data systems should be **reliable, observable, and scalable**.  
+
+I focus on building data platforms where **data quality, performance, and recoverability are first-class concerns**, not afterthoughts.
