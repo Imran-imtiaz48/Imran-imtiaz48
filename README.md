@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Imran Imtiaz</h1>
+<h1 align="center">Hello, I'm Imran Imtiaz</h1>
 <h3 align="center">Senior Data Engineer | Database Architect | Cloud Data Platforms</h3>
 
 <p align="center">
