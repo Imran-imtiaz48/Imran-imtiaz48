@@ -8,7 +8,7 @@
 
 ---
 
-### `whoami`
+### `whoiam`
 
 ```yaml
 Subject:      Imran Imtiaz
