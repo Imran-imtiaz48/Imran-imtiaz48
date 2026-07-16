@@ -13,7 +13,7 @@
 ```yaml
 Subject:      Imran Imtiaz
 Role:         Senior Data Engineer
-Origin:       Dubai, United Arab Emirates
+Origin:       Dubai, U.A.E.
 Experience:   7+ Years — Data Engineering · Database Administration · ETL Development
 Status:       Building data systems that are reliable, observable, and scalable
 
