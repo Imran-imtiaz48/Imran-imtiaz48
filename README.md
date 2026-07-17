@@ -36,7 +36,7 @@ Contact:
 
 <div align="center">
 
-## ⚡ Core Arsenal
+## ⚡ Core
 
 </div>
 
