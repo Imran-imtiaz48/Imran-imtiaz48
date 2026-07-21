@@ -23,7 +23,7 @@ $ whoami
 Subject:      Imran Imtiaz
 Role:         Senior Data Engineer
 Origin:       Dubai
-Experience:   7+ Years — Data Engineering · Database Administration · ETL Development
+Experience:   7 Years — Data Engineering · Database Administration · ETL Development
 Mission:      Building data systems that are reliable, observable, and scalable
 ────────────────────────────────────────────────────────────
 Contact:
