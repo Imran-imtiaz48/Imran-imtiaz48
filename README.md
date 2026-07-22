@@ -48,7 +48,7 @@ Contact:
   <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-**☁️ Data Platforms & Warehousing**
+**☁️ Data Platform & Warehousing**
 <p align="center">
   <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white"/>
