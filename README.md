@@ -18,7 +18,7 @@
 <br/>
 
 ```yaml
-$ whoami
+$ whoamI
 ────────────────────────────────────────────────────────────
 Subject:      Imran Imtiaz
 Role:         Senior Data Engineer
