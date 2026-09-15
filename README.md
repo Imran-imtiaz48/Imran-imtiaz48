@@ -1,4 +1,5 @@
 <div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=IMRAN%20IMTIAZ&fontSize=52&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Engineer%20%E2%80%94%20Dubai,%20UAE&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Architecting+reliable+data+platforms;PostgreSQL+%7C+Oracle+%7C+Azure+%7C+Snowflake;7%2B+years+turning+raw+data+into+trust" alt="Typing SVG" />
