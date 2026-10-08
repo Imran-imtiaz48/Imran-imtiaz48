@@ -139,8 +139,7 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-imtiaz48&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff" width="100%"/>
-
+<img src="https://ghchart.rshah.org/7c3aed/imran-imtiaz48" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=2" width="100%"/>
