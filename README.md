@@ -1,32 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Imran%20Imtiaz&fontSize=64&fontColor=00ffcc&animation=twinkling&fontAlignY=40&desc=Senior%20Data%20Engineer%20%C2%B7%20Dubai,%20UAE&descAlignY=62&descSize=20&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1e1b4b,100:6d28d9&height=170&section=header&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/imran-imtiaz48">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FFCC&center=true&vCenter=true&width=760&height=45&lines=Building+reliable%2C+observable+data+platforms;PostgreSQL+%7C+Oracle+%7C+Azure+%7C+Snowflake+%7C+Databricks;7%2B+years+turning+raw+data+into+trust;Data+quality+and+recoverability+first" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=44&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Imran+Imtiaz" alt="Imran Imtiaz" />
+</a>
+<br/>
+<a href="https://github.com/imran-imtiaz48">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&height=40&lines=Senior+Data+Engineer+%C2%B7+Dubai%2C+UAE;Reliable+%C2%B7+Observable+%C2%B7+Scalable+data+platforms;PostgreSQL+%C2%B7+Oracle+%C2%B7+Azure+%C2%B7+Snowflake+%C2%B7+Databricks;7%2B+years+turning+raw+data+into+trust" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Dubai%2C%20UAE-00ffcc?style=flat-square&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Experience-7%2B%20Years-00ffcc?style=flat-square&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%C2%B7%20DBA%20%C2%B7%20ETL-00ffcc?style=flat-square&labelColor=0f2027"/>
-<!-- Optional, only if you want to signal availability:
-<img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-2ea44f?style=flat-square&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/Dubai%2C%20UAE-0b1020?style=flat-square&logo=googlemaps&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/7%2B%20Years-0b1020?style=flat-square&logo=clockify&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Data%20Engineering%20%C2%B7%20DBA%20%C2%B7%20ETL-0b1020?style=flat-square&logo=databricks&logoColor=22d3ee"/>
+<!-- Optional availability badge:
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-22c55e?style=flat-square"/>
 -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=imran-imtiaz48&label=Profile+Views&color=00ffcc&style=flat-square&labelColor=0f2027"/>
-<img src="https://img.shields.io/github/followers/imran-imtiaz48?label=Followers&style=flat-square&color=00ffcc&labelColor=0f2027"/>
+<img src="https://komarev.com/ghpvc/?username=imran-imtiaz48&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=0b1020"/>
+<img src="https://img.shields.io/github/followers/imran-imtiaz48?label=Followers&style=flat-square&color=7c3aed&labelColor=0b1020"/>
 
 <br/><br/>
 
-<a href="mailto:emraan.imtiaz48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/imranimtiaz1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/imran-imtiaz48"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:emraan.imtiaz48@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a>
+<a href="https://linkedin.com/in/imranimtiaz1"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/></a>
+<a href="https://github.com/imran-imtiaz48"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=22d3ee"/></a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=2" width="100%"/>
 
 ## 👋 About
 
@@ -39,7 +43,7 @@ I treat **data quality, performance and recoverability as first-class concerns**
 <td width="50%" valign="top">
 
 **🎯 What I do**
-- Design ETL/ELT pipelines and orchestration
+- ETL/ELT pipelines and orchestration
 - Dimensional and Data Vault 2.0 modeling
 - Database administration, tuning and HA/DR
 - Lakehouse and warehouse architecture
@@ -48,17 +52,17 @@ I treat **data quality, performance and recoverability as first-class concerns**
 </td>
 <td width="50%" valign="top">
 
-**🏢 Where**
-- **Senior Data Engineer**, Dar Al Ber Society (2022 – present)
-- **Full Stack Developer**, Dar Al Ber Society (2019 – 2022)
-- **B.Sc. Systems Engineering**, Universidad Azteca (2019)
+**🏢 Experience & Education**
+- **Senior Data Engineer**, Dar Al Ber Society · 2022 – present
+- **Full Stack Developer**, Dar Al Ber Society · 2019 – 2022
+- **B.Sc. Systems Engineering**, Universidad Azteca · 2019
 
 </td>
 </tr>
 </table>
 
 <!--
-IMPACT SECTION: recruiters love numbers. Fill with REAL figures, then uncomment.
+IMPACT SECTION: add REAL numbers, then uncomment.
 
 ## 📈 Selected Impact
 | Area | Result |
@@ -69,7 +73,7 @@ IMPACT SECTION: recruiters love numbers. Fill with REAL figures, then uncomment.
 | Cost | Reduced compute spend by X% |
 -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=2" width="100%"/>
 
 ## 🏗️ How I Build Data Platforms
 
@@ -84,7 +88,7 @@ flowchart LR
     D -.-> F
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=2" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -112,8 +116,8 @@ flowchart LR
 **Languages & Modeling**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Erwin_Data_Modeler-2E3440?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Vault_2.0-2E3440?style=flat-square"/>
+<img src="https://img.shields.io/badge/Erwin_Data_Modeler-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Vault_2.0-4C1D95?style=flat-square"/>
 
 **DevOps & Visualization**<br/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
@@ -123,35 +127,35 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=2" width="100%"/>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz48&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00ffcc&icon_color=00ffcc&text_color=8b949e"/>
-<img height="170" src="https://streak-stats.demolab.com?user=imran-imtiaz48&theme=transparent&hide_border=true&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-imtiaz48&layout=compact&theme=transparent&hide_border=true&title_color=00ffcc&text_color=8b949e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz48&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=22d3ee&icon_color=a78bfa&text_color=9ca3af"/>
+<img height="170" src="https://streak-stats.demolab.com?user=imran-imtiaz48&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=22d3ee&currStreakNum=9ca3af&sideNums=9ca3af&sideLabels=9ca3af&dates=6b7280"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-imtiaz48&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=9ca3af"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-imtiaz48&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imran-imtiaz48&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff" width="100%"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=2" width="100%"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imran-imtiaz48/imran-imtiaz48/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imran-imtiaz48/imran-imtiaz48/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/imran-imtiaz48/imran-imtiaz48/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imran-imtiaz48/Imran-imtiaz48/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imran-imtiaz48/Imran-imtiaz48/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Imran-imtiaz48/Imran-imtiaz48/output/github-snake.svg"/>
   </picture>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:7c3aed&height=2" width="100%"/>
 
 ## 💡 Philosophy
 
@@ -168,4 +172,4 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,55:1e1b4b,100:0b1020&height=110&section=footer" width="100%"/>
