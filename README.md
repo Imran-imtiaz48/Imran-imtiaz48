@@ -133,7 +133,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz48&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=22d3ee&icon_color=a78bfa&text_color=9ca3af"/>
+<img src="https://ghchart.rshah.org/7c3aed/imran-imtiaz48" width="100%"/>
 <img height="170" src="https://streak-stats.demolab.com?user=imran-imtiaz48&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=22d3ee&currStreakNum=9ca3af&sideNums=9ca3af&sideLabels=9ca3af&dates=6b7280"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-imtiaz48&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=9ca3af"/>
 
