@@ -15,9 +15,7 @@
 <img src="https://img.shields.io/badge/Dubai%2C%20UAE-0b1020?style=flat-square&logo=googlemaps&logoColor=22d3ee"/>
 <img src="https://img.shields.io/badge/7%2B%20Years-0b1020?style=flat-square&logo=clockify&logoColor=22d3ee"/>
 <img src="https://img.shields.io/badge/Data%20Engineering%20%C2%B7%20DBA%20%C2%B7%20ETL-0b1020?style=flat-square&logo=databricks&logoColor=22d3ee"/>
-<!-- Optional availability badge:
-<img src="https://img.shields.io/badge/Open%20to%20Opportunities-22c55e?style=flat-square"/>
--->
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=imran-imtiaz48&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=0b1020"/>
 <img src="https://img.shields.io/github/followers/imran-imtiaz48?label=Followers&style=flat-square&color=7c3aed&labelColor=0b1020"/>
