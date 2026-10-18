@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1e1b4b,100:6d28d9&height=170&section=header&animation=fadeIn" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1e1b4b,100:6d28d9&height=170&section=header&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/imran-imtiaz48">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=44&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Imran+Imtiaz" alt="Imran Imtiaz" />
