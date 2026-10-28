@@ -1,5 +1,4 @@
 <div align="center"> 
-    
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1e1b4b,100:6d28d9&height=170&section=header&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/imran-imtiaz48">
